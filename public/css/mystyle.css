@@ -1,0 +1,27 @@
+
+.total{
+    border: 1px solid;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #ccc;
+}
+.error{
+    color: red;
+}
+#booking-error{
+    position: absolute;
+    bottom: -12px;
+}
+#name-error{
+    color: red;
+}#email-error{
+    color: red;
+}#mobile-error{
+    color: red;
+}#password-error{
+    color: red;
+}#members_details-error{
+    color: red;
+}#booking-error{
+    color: red;
+}

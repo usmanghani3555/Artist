@@ -1,0 +1,49 @@
+Live Link
+https://abms.artistauditions.com/home
+
+--------------------------------------
+Dev Link
+http://artistauditions.com/dev/
+----------------------------------------
+artistauditions.com/cpanel
+user: wngr8bq57cpo
+pwd: 5vSR>G|-o
+
+---------------------
+FTP Info
+
+FTP server: ftp.artistauditions.com
+FTP Username: dev@artistauditions.com
+FTP & explicit FTPS port:  21
+password: artist123
+
+------------------------------
+http://artistauditions.com/dev/
+Admin info
+Email: admin@admin.com
+Pass: 1234
+
+-----------------------
+Admin2 Info
+
+Email: admin2@admin2.com
+Pass: 123456
+--------------------
+worlstone101@gmail.com
+usman123
+--------------------
+artist Info --free account--
+Email: worlstone101@gmail.com
+Pass: usman123
+
+----------
+mylife_mystyle786@yahoo.com
+live:123456
+dev:12345678
+
+------------------------------------
+Manager account Info
+Email:usmanghani123@gmail.com
+pass:12345678
+
+

@@ -1,0 +1,58 @@
+* {
+	padding:0;
+	margin:0;
+}
+.slider-block {position:relative;}
+.slider img,.slider div {border-radius:8px}
+.slider {
+	
+}
+.items {
+	display:none;
+}
+.prev,.next {font-weight:bold; color:#8a7c59;}
+.prev {margin:0 34px 0 150px}
+.next {}
+.prev:hover, .next:hover {background-position:0 bottom;}
+/*--------- slider ---------*/
+#slide { 
+	float:left;
+	width:574px;
+	height:381px;
+	margin:0 0px 0 0px;
+	margin-top:0px;
+	}
+.gallery .pic {border-radius:8px}
+.gallery {
+	width:574px;
+	position:relative;
+	z-index:2;
+	border-radius:8px;
+	border:1px solid #3b3628;
+	box-shadow:0 0 4px #000;
+	border-radius:8px
+}
+.items {display:none;}
+.pag {padding:0;margin:0;position:relative;}
+.img-pags {position:static;left:33px;z-index:1;display:block;}
+.img-pags ul {margin:0}
+.img-pags li {display:block; margin:0px 20px 10px 0px;float:left; position:relative;width:161px; height:122px;}
+.img-pags li img {border-radius:8px;}
+.img-pags li a {position:relative;display:block;border:1px solid #3e372b;border-radius:8px;}
+.img-pags li a span { display:block; }
+.img-pags li.active a  {cursor:default}
+.img-pags li.active a ,.img-pags li a:hover{border:1px solid #c2b287;}
+.nav1 {margin-right:119px; float:right}
+.nav1 .button {font-weight:bold; color:#8a7c59;background:none;text-shadow:none; padding:0}
+.nav1 .button:hover {color:#543528; }
+.nav1 .button1 {margin-right:25px}
+/*-------- end slider -----------*/
+
+
+
+
+
+
+
+
+
